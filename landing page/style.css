@@ -1,0 +1,46 @@
+
+
+
+main { 
+    width: 626px;
+    margin: 64px auto;
+    text-align: center;
+}
+
+img { 
+    margin-bottom: 32px;
+}
+
+span  {
+    color: #EE24FF;
+}
+
+h1 { 
+    font-size: 32px;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+.paragrafo { 
+    margin-bottom: 32px;
+}
+
+hr { 
+    border-color: #ECEFF2;
+    width: 391px;
+    text-align: center;
+}
+
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 42px;
+    justify-content: center;
+    text-align: center;
+}
+
+.imagem {
+    width: 1024px;
+    text-align: center;
+}
